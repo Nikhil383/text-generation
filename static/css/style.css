@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
